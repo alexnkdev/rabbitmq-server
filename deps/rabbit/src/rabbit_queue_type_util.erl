@@ -12,6 +12,7 @@
          check_auto_delete/1,
          check_exclusive/1,
          check_non_durable/1,
+         name_concat/1,
          run_checks/2,
          erpc_call/5]).
 
